@@ -199,9 +199,9 @@ keybindings:
   - commands: ["focus --next-workspace"]
     # Focus the next/previous workspace defined in `workspaces` config.
 
-    bindings: ["alt+s"]
+    bindings: ["alt+x"]
   - commands: ["focus --prev-workspace"]
-    bindings: ["alt+a"]
+    bindings: ["alt+z"]
   - commands: ["focus --recent-workspace"]
     # Focus the workspace that last had focus.
 
