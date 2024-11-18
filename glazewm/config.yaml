@@ -189,7 +189,7 @@ keybindings:
   - commands: ["wm-redraw"]
     # Redraw all windows.
 
-    bindings: ["alt+t"]
+    bindings: ["alt+shift+t"]
   - commands: ["shell-exec wezterm-gui"]
     # Launch CMD terminal. Alternatively, use `shell-exec wt` or
 
