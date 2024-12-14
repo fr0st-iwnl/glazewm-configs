@@ -6,8 +6,12 @@ This repository contains my custom configurations for **GlazeWM**, a powerful an
 - [GlazeWM](https://github.com/glzr-io/glazewm)
 - [GlazeWM - Config](https://github.com/fr0st-iwnl/glazewm-configs/blob/master/glazewm/config.yaml)
 
+
 ### ➖ TopBar Setup :
 - [Zebar](https://github.com/glzr-io/zebar)
+
+### ⌨️ Macros :
+- [WinMacros](https://github.com/fr0st-iwnl/WinMacros)
 
 ### 🔎 Searching :
 
